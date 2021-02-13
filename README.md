@@ -19,7 +19,14 @@ Agenda:
 
 ## Map of Bike Stations
 
-## Usage by Type
+![Map](https://github.com/deliahellander/tableau-challenge/blob/main/Images/Map.png?raw=true)
+
+## Usage by Type and Gender
+
+![Type/Gender](https://github.com/deliahellander/tableau-challenge/blob/main/Images/Usage-by-Type-and-Gender.png?raw=true)
 
 ## Usage by Age
+
+![alt text](https://github.com/deliahellander/tableau-challenge/blob/main/Images/Usage-by-Age.png?raw=true)
+
 
